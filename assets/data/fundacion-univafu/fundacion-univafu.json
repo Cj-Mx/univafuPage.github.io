@@ -1,0 +1,51 @@
+[{
+
+  "name": "fundacion-univafu",
+  "data": {
+    "banner" :
+      {
+        "title": "Fundación Univafu",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur voluptatem, corporis dolorem similique facilis ex temporibus quaerat reprehenderit earum vitae eius? Nulla voluptas reiciendis esse voluptate modi laborum dolore! Nesciunt!",
+        "url":"/assets/images/fundacion-univafu/banner.jpg",
+        "video": false
+      },
+    "about" : {
+    "urlImg1": "../../../../assets/images/colegio-del-valle-del-fuerte/1.jpg",
+    "titulo1": "Fundación Univafu",
+    "desc1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quibusdam, quisquam libero eaque aliquam quaerat laborum ratione illo veniam quas est ad maiores itaque fugiat ipsa consequatur quo magnam facilis!",
+    "titulo2": "Campo Profesional",
+    "subTitulo2": "",
+    "desc2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quibusdam, quisquam libero eaque aliquam quaerat laborum ratione illo veniam quas est ad maiores itaque fugiat ipsa consequatur quo magnam facilis!",
+    "lista2": [],
+    "urlImg2": "../../../../assets/images/colegio-del-valle-del-fuerte/2.jpg",
+    "urlImg3": "../../../../assets/images/colegio-del-valle-del-fuerte/3.jpg",
+    "titulo3": "Perfil de Ingreso",
+    "desc3": "",
+    "lista3": [{
+            "line": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quibusdam, quisquam libero eaque aliquam quaerat laborum ratione illo veniam quas est ad maiores itaque fugiat ipsa consequatur quo magnam facilis!"
+        },
+        {
+            "line": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quibusdam, quisquam libero eaque aliquam quaerat laborum ratione illo veniam quas est ad maiores itaque fugiat ipsa consequatur quo magnam facilis!"
+        }
+    ]
+  },
+    "semestres": [{
+            "titulo": "1er Semestre",
+            "materias": [{
+                    "titulo": "Matematicas I"
+                },
+                {
+                    "titulo": "Español I"
+                },
+                {
+                    "titulo": "Ingles I"
+                }
+            ]
+        }
+    ],
+    "misionvision" : {
+      "mision": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis in cum aspernatur sed porro reiciendis quidem, odit aliquid. Fuga ratione voluptate distinctio, voluptas vitae ea!",
+      "vision" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis in cum aspernatur sed porro reiciendis quidem, odit aliquid. Fuga ratione voluptate distinctio, voluptas vitae ea!"
+    }
+}}
+]

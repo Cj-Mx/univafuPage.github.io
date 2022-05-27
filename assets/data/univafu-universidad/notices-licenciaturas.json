@@ -1,0 +1,233 @@
+[
+    {
+     "name": "lgtyg",
+        "notices": [
+         {
+             "title" : "Noticia 1",
+             "fecha": "24/05/2022",
+             "description" : "Esta es la noticia 1",
+             "images": [
+                 {
+                    "urlImage" : "../../../../assets/images/univafu-universidad/licenciaturas/lgtyg/notices/notice1/1.jpg"
+                 },
+                 {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/licenciaturas/lgtyg/notices/notice1/2.jpg"
+               },
+               {
+                "urlImage" : "../../../../assets/images/univafu-universidad/licenciaturas/lgtyg/notices/notice1/3.jpg"
+               }
+             ]
+         },
+         {
+           "title" : "Noticia 2",
+           "fecha": "24/05/2022",
+           "description" : "Esta es la noticia 1",
+           "images": [
+               {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/licenciaturas/lgtyg/notices/notice2/1.jpg"
+               }
+           ]
+       },
+       {
+           "title" : "Noticia 3",
+           "fecha": "24/05/2022",
+           "description" : "Esta es la noticia 1",
+           "images": [
+               {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/licenciaturas/lgtyg/notices/notice3/1.jpg"
+               }
+           ]
+       },
+       {
+           "title" : "Noticia 4",
+           "fecha": "24/05/2022",
+           "description" : "Esta es la noticia 1",
+           "images": [
+               {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/licenciaturas/lgtyg/notices/notice4/1.jpg"
+               }
+           ]
+       }
+     ]
+    } ,
+    {
+     "name": "lnut",
+        "notices": [
+         {
+             "title" : "Noticia 1",
+             "fecha": "24/05/2022",
+             "description" : "Esta es la noticia 1",
+             "images": [
+                 {
+                    "urlImage" : "../../../../assets/images/univafu-universidad/licenciaturas/lnut/notices/notice1.png"
+                 }
+             ]
+         },
+         {
+           "title" : "Noticia 2",
+           "fecha": "24/05/2022",
+           "description" : "Esta es la noticia 1",
+           "images": [
+               {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/licenciaturas/lnut/notices/notice2.png"
+               }
+           ]
+       },
+       {
+           "title" : "Noticia 3",
+           "fecha": "24/05/2022",
+           "description" : "Esta es la noticia 1",
+           "images": [
+               {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/licenciaturas/lnut/notices/notice3.png"
+               }
+           ]
+       },
+       {
+           "title" : "Noticia 4",
+           "fecha": "24/05/2022",
+           "description" : "Esta es la noticia 1",
+           "images": [
+               {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/licenciaturas/lnut/notices/notice4.png"
+               }
+           ]
+       }
+     ]
+    } ,
+    {
+     "name": "ltal",
+        "notices": [
+         {
+             "title" : "Noticia 1",
+             "fecha": "24/05/2022",
+             "description" : "Esta es la noticia 1",
+             "images": [
+                 {
+                    "urlImage" : "../../../../assets/images/univafu-universidad/licenciaturas/ltal/notices/notice1.png"
+                 }
+             ]
+         },
+         {
+           "title" : "Noticia 2",
+           "fecha": "24/05/2022",
+           "description" : "Esta es la noticia 1",
+           "images": [
+               {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/licenciaturas/ltal/notices/notice2.png"
+               }
+           ]
+       },
+       {
+           "title" : "Noticia 3",
+           "fecha": "24/05/2022",
+           "description" : "Esta es la noticia 1",
+           "images": [
+               {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/licenciaturas/ltal/notices/notice3.png"
+               }
+           ]
+       },
+       {
+           "title" : "Noticia 4",
+           "fecha": "24/05/2022",
+           "description" : "Esta es la noticia 1",
+           "images": [
+               {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/licenciaturas/ltal/notices/notice4.png"
+               }
+           ]
+       }
+     ]
+    } ,
+    {
+     "name": "ltfyr",
+        "notices": [
+         {
+             "title" : "Noticia 1",
+             "fecha": "24/05/2022",
+             "description" : "Esta es la noticia 1",
+             "images": [
+                 {
+                    "urlImage" : "../../../../assets/images/univafu-universidad/licenciaturas/ltfyr/notices/notice1.png"
+                 }
+             ]
+         },
+         {
+           "title" : "Noticia 2",
+           "fecha": "24/05/2022",
+           "description" : "Esta es la noticia 1",
+           "images": [
+               {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/licenciaturas/ltfyr/notices/notice2.png"
+               }
+           ]
+       },
+       {
+           "title" : "Noticia 3",
+           "fecha": "24/05/2022",
+           "description" : "Esta es la noticia 1",
+           "images": [
+               {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/licenciaturas/ltfyr/notices/notice3.png"
+               }
+           ]
+       },
+       {
+           "title" : "Noticia 4",
+           "fecha": "24/05/2022",
+           "description" : "Esta es la noticia 1",
+           "images": [
+               {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/licenciaturas/ltfyr/notices/notice4.png"
+               }
+           ]
+       }
+     ]
+    } ,
+    {
+     "name": "lmkt",
+        "notices": [
+         {
+             "title" : "Noticia 1",
+             "fecha": "24/05/2022",
+             "description" : "Esta es la noticia 1",
+             "images": [
+                 {
+                    "urlImage" : "../../../../assets/images/univafu-universidad/licenciaturas/lmkt/notices/notice1.png"
+                 }
+             ]
+         },
+         {
+           "title" : "Noticia 2",
+           "fecha": "24/05/2022",
+           "description" : "Esta es la noticia 1",
+           "images": [
+               {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/licenciaturas/lmkt/notices/notice2.png"
+               }
+           ]
+       },
+       {
+           "title" : "Noticia 3",
+           "fecha": "24/05/2022",
+           "description" : "Esta es la noticia 1",
+           "images": [
+               {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/licenciaturas/lmkt/notices/notice3.png"
+               }
+           ]
+       },
+       {
+           "title" : "Noticia 4",
+           "fecha": "24/05/2022",
+           "description" : "Esta es la noticia 1",
+           "images": [
+               {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/licenciaturas/lmkt/notices/notice4.png"
+               }
+           ]
+       }
+     ]
+    }
+ ]

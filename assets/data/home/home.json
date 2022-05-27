@@ -1,0 +1,13 @@
+[{
+
+  "name": "home",
+  "data": {
+    "banner" :
+      {
+        "title": "Bienvenido a univafu",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur voluptatem, corporis dolorem similique facilis ex temporibus quaerat reprehenderit earum vitae eius? Nulla voluptas reiciendis esse voluptate modi laborum dolore! Nesciunt!",
+        "url":"/assets/images/home/banner.mp4",
+        "video": true
+      }
+}}
+]

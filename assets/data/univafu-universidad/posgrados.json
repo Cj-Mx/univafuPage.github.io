@@ -1,0 +1,290 @@
+[
+  {"name" : "mnut",
+  "data": {
+    "banner" :
+    {
+      "title": "Maestría en Nutrición Clínica y Hospitalaria",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur voluptatem, corporis dolorem similique facilis ex temporibus quaerat reprehenderit earum vitae eius? Nulla voluptas reiciendis esse voluptate modi laborum dolore! Nesciunt!",
+      "url":"/assets/images/univafu-universidad/posgrados/mnut/banner.jpg",
+      "video": false
+    },
+  "about" : {
+    "mainBanner": "/assets/images/univafu-universidad/posgrados/mnut/banner.jpg",
+      "urlImg1": "../../..//assets/images/univafu-universidad/posgrados/mnut/1.jpg",
+      "titulo1": "Maestría en Nutrición Clínica y Hospitalaria",
+      "desc1": "Es un programa orientado a la formación de especialistas en Nutrición Clínica y Hospitalaria, actualizados y comprometidos con su ética profesional; capaces de evaluar y realizar una intervención nutricia de calidad, eficaz, segura y humana, para prevenir, tratar y disminuir riesgos de  enfermedades relacionadas con la nutrición, fundamentado en evidencia científica.",
+      "titulo2": "Perfil de egreso",
+      "subTitulo2": "Serás capaz de:",
+      "desc2": "",
+      "over": true,
+      "lista2": [{
+              "line": "Ejercer como profesional crítico, analítico y ético, en relación con la aplicación de los conocimientos de Nutrición Clínica, para enfrentar eficazmente la problemática de salud del país, a través de la utilización de las tecnologías de información actuales."
+          },
+          {
+              "line": "Desarrollo de competencias específicas para el abordaje nutricional en diferentes áreas médicas como: Gastroenterología, Oncología, Cirugía, Endocrinología, Cardiología y Nefrología, de acuerdo a las guías de práctica clínica nacionales e internacionales, coadyuvando en equipos interdisciplinarios. "
+          },
+          {
+              "line": "Evaluar el estado nutricio de individuos sanos y enfermos para sustentar un diagnóstico, basado en la evidencia científica y en lineamientos establecidos por organismos de carácter regulatorio.  "
+          },
+          {
+              "line": "Generar proyectos en el área de Nutrición Clínica y Hospitalaria, contribuyendo a la solución de problemas alimentarios en la sociedad, y  promoviendo la difusión de la investigación y  el conocimiento científico."
+          }
+      ],
+      "urlImg2": "../../..//assets/images/univafu-universidad/posgrados/mnut/2.jpg",
+      "urlImg3": "../../..//assets/images/univafu-universidad/posgrados/mnut/3.jpg",
+      "titulo3": "Modalidad",
+      "desc3": "El programa se desarrolla en cuatro semestres en modalidad mixta, en sesiones presenciales y virtuales, con el uso de plataforma educativa. Se realizarán estudios de casos y proyectos por asignatura, participando en coloquios, con opción a publicar en revista científica.",
+      "lista3": []
+    },
+      "semestres": [{
+              "titulo": "1er Semestre",
+              "materias": [{
+                      "titulo": "Fisiología y Bioquímica de la Nutrición"
+                  },
+                  {
+                      "titulo": "Evaluación Clínica-Hospitalaria Nutricional"
+                  },
+                  {
+                      "titulo": "Cálculo de Requerimientos Nutricionales"
+                  },
+                  {
+                      "titulo": "Epidemiología y Bioestadística en Nutrición"
+                  },
+                  {
+                      "titulo": "Metodología de la Investigación en Nutrición"
+                  }
+              ]
+          },
+          {
+              "titulo": "2do Semestre",
+              "materias": [{
+                      "titulo": "Nutrición Enteral y Parenteral"
+                  },
+                  {
+                      "titulo": "Nutrición en Enfermedades Cardiovasculares"
+                  },
+                  {
+                      "titulo": "Nutrición en Enfermedades Músculo-Esqueléticas y Cirugía"
+                  },
+                  {
+                      "titulo": "Nutrición en Enfermedades Endocrinológicas y Metabólicas "
+                  },
+                  {
+                      "titulo": "Seminario de Investigación I"
+                  }
+              ]
+          },
+          {
+              "titulo": "3er Semestre",
+              "materias": [{
+                      "titulo": "Nutrición en Oncología"
+                  },
+                  {
+                      "titulo": "Nutrición en Enfermedad Renal"
+                  },
+                  {
+                      "titulo": "Nutrición y Dietoterapia en Patologías Especiales"
+                  },
+                  {
+                      "titulo": "Seminario de Investigación II"
+                  }
+              ]
+          },
+          {
+              "titulo": "4to Semestre",
+              "materias": [{
+                      "titulo": "Nutrición en Enfermedades Gastrointestinales"
+                  },
+                  {
+                      "titulo": "Nutrición en Enfermedades Infecciosas"
+                  },
+                  {
+                      "titulo": "Prácticas Clínicas-Hospitalarias"
+                  },
+                  {
+                      "titulo": "Seminario de Investigación III"
+                  }
+              ]
+          }
+      ],
+      "misionvision" : {
+        "mision": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis in cum aspernatur sed porro reiciendis quidem, odit aliquid. Fuga ratione voluptate distinctio, voluptas vitae ea!",
+        "vision" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis in cum aspernatur sed porro reiciendis quidem, odit aliquid. Fuga ratione voluptate distinctio, voluptas vitae ea!"
+      }
+  }},
+  {"name": "mdch",
+  "data" : {
+    "banner" :
+    {
+      "title": "Maestría en Nutrición Clínica y Hospitalaria",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur voluptatem, corporis dolorem similique facilis ex temporibus quaerat reprehenderit earum vitae eius? Nulla voluptas reiciendis esse voluptate modi laborum dolore! Nesciunt!",
+      "url":"/assets/images/univafu-universidad/posgrados/mdch/banner.jpg",
+      "video": false
+    },
+  "about" : {
+      "urlImg1": "../../..//assets/images/univafu-universidad/posgrados/mdch/1.jpg",
+      "titulo1": "Maestría en Desarrollo del Capital Humano",
+      "desc1": "Es un programa que forma profesionales de capacidad gerencial y organizacional, compotentes en la identificación y análisis y evaluación de los distintos factores que intervienen en el desempeño de las organizaciones, para que a través del diseño de planes estrátegicos que impulsen el desarrollo integral del capital humano que poseen y el que se integrará, cummplan con el propósito de mejorar continuamente la productividad, el desarrollo personal y el entorno del que forman parte.",
+      "titulo2": "Perfil de egreso",
+      "subTitulo2": "Serás capaz de:",
+      "desc2": "",
+      "over": true,
+      "lista2": [{
+              "line": "Realizar diagnósticos situacionales relacionados con la organización y con el talento humano que la compone, identificando y analizando las transformaciones en el ambiente interno y externo, que actúan como agentes de cambio para la búsqueda de la mejora contínua."
+          },
+          {
+              "line": "Aplicar las métricas necesarias para proponer estrategias en relación a la gestión de personal y el contexto organizacional, con el objetivo de potencializar la mejora continua y el fortalecimiento de la efectivdad en los distintos ámbitos que componene la organización."
+          },
+          {
+              "line": "Optimizar el talento de las personas, basados en la necesidad de contar con competencias profesionales para gestionar, dirigir, motivas y liderar el talento humano, mismo que es la base de las organizaciones para enfrentar las demandas y exigencias del entorno global actual."
+          },
+          {
+              "line": "Ejecutar investigaciones sobre el capital humano en el ámbito organizacional, contribuyendo el desarrollo de los nuevos programas como estrategias para generar alternativas de solución y gestión del cambio."
+          }
+      ],
+      "urlImg2": "../../..//assets/images/univafu-universidad/posgrados/mdch/2.jpg",
+      "urlImg3": "../../..//assets/images/univafu-universidad/posgrados/mdch/3.jpg",
+      "titulo3": "Modalidad",
+      "desc3": "El programa se desarrolla en cuatro semestres en modalidad mixta, en sesiones presenciales y virtuales, con el uso de plataforma educativa. Se realizarán estudios de casos y proyectos por asignatura, participando en coloquios, con opción a publicar en revista científica.",
+      "lista3": []
+    },
+      "semestres": [{
+              "titulo": "1er Semestre",
+              "materias": [{
+                      "titulo": "Bases del Capital Humano"
+                  },
+                  {
+                      "titulo": "Evaluación del Comportamiento Organizacional"
+                  },
+                  {
+                      "titulo": "Motivación del Capital Humano"
+                  },
+                  {
+                      "titulo": "Metodología de la Investigación del Desarrollo Humano"
+                  }
+              ]
+          },
+          {
+              "titulo": "2do Semestre",
+              "materias": [{
+                      "titulo": "Comunicación Gerencial y Marketing"
+                  },
+                  {
+                      "titulo": "Psicología Positiva Empresarial"
+                  },
+                  {
+                      "titulo": "Seminario de Coaching y Liderazgo"
+                  },
+                  {
+                      "titulo": "Abordaje de la Investigación"
+                  }
+              ]
+          },
+          {
+              "titulo": "3er Semestre",
+              "materias": [{
+                      "titulo": "Cultura Organizacional"
+                  },
+                  {
+                      "titulo": "Estructura de Métricas para la Organización"
+                  },
+                  {
+                      "titulo": "Desarrollo del Pensamiento Estrátegico"
+                  },
+                  {
+                      "titulo": "Análisis de Datos de la Investigación"
+                  }
+              ]
+          },
+          {
+              "titulo": "4to Semestre",
+              "materias": [{
+                      "titulo": "Entrevistas por Competencias"
+                  },
+                  {
+                      "titulo": "Desarrollo Integral de Grupo"
+                  },
+                  {
+                      "titulo": "Feedback"
+                  },
+                  {
+                      "titulo": "Sintesis de la Investigación"
+                  }
+              ]
+          }
+      ]
+  }},
+  {"name": "epyr",
+  "data" :  {
+    "banner" :
+    {
+      "title": "Maestría en Nutrición Clínica y Hospitalaria",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur voluptatem, corporis dolorem similique facilis ex temporibus quaerat reprehenderit earum vitae eius? Nulla voluptas reiciendis esse voluptate modi laborum dolore! Nesciunt!",
+      "url":"/assets/images/univafu-universidad/posgrados/epyr/banner.jpg",
+      "video": false
+    },
+  "about" : {
+      "urlImg1": "../../..//assets/images/univafu-universidad/posgrados/epyr/1.jpg",
+      "titulo1": "Prevención y Rehabilitación de Lesiones Deportivas",
+      "desc1": "Tiene como finalidad formar profesionales en el ámbito deportivo, con una base de conocimientos especializados sobre las distintas técnicas de  abordaje terapéutico, para diseñar planes de tratamiento fisioterapéutico desde una visión multidisciplinaria y funcional del mismo.",
+      "titulo2": "Perfil de egreso",
+      "subTitulo2": "Serás capaz de:",
+      "desc2": "",
+      "over": true,
+      "lista2": [{
+              "line": "Aplica de forma precisa las técnicas destinadas a minimizar el tiempo de recuperación de las lesiones, desarrollando una metodología de intervención, que permita adaptarse a las diferentes guías terapéuticas y preventivas en estos campos."
+          },
+          {
+              "line": "Diseña un plan de intervención de fisioterapia atendiendo a creterios de adecuación, validez y eficiencia, adaptando a la individualidad del usuario"
+          },
+          {
+              "line": "Basado en el método científico, desarrolla competencias para la ejecución de proyectos en el área de prevención y rehabilitación de las lesiones deportivas, contribuyendo a la solución de problemas en el ámbito deportivo de alto rendimiento y amateur, promoviendo la difusión y el conocimiento científico."
+          }
+      ],
+      "urlImg2": "../../..//assets/images/univafu-universidad/posgrados/epyr/2.jpg",
+      "urlImg3": "../../..//assets/images/univafu-universidad/posgrados/epyr/3.jpg",
+      "titulo3": "Modalidad",
+      "desc3": "El programa se desarrolla en dos semestres en modalidad mixta, en sesiones presenciales y virtuales, con el uso de plataforma educativa. Se realizarán estudios de casos y proyectos por asignatura, participando en coloquios, con opción a publicar en revista científica.",
+      "lista3": []
+    },
+      "semestres": [{
+              "titulo": "1er Semestre",
+              "materias": [{
+                      "titulo": "Fundamentos de las Lesiones Deportivas"
+                  },
+                  {
+                      "titulo": "Análisis y Evaluación de Lesiones Deportivas"
+                  },
+                  {
+                      "titulo": "Factores de Riesgo y Prevención de Lesiones Deportivas"
+                  },
+                  {
+                      "titulo": "Técnicas Avanzadas de Terapia Física en el Deporte I"
+                  },
+                  {
+                      "titulo": "Intervención aguda en la Lesion Deportiva"
+                  },
+                  {
+                      "titulo": "Metodología de la Investigación"
+                  }
+              ]
+          },
+          {
+              "titulo": "2do Semestre",
+              "materias": [{
+                      "titulo": "Métodos de entrenamiento para la recuperación funcional"
+                  },
+                  {
+                      "titulo": "Técnicas Avanzadas de Terapia Física en el Deporte II"
+                  },
+                  {
+                      "titulo": "Práctica Clínica"
+                  },
+                  {
+                      "titulo": "Proyecto Final de Investigación"
+                  }
+              ]
+          }
+      ]
+  }}
+]

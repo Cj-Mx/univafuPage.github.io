@@ -1,0 +1,53 @@
+[
+  {
+   "name": "secundaria",
+      "notices": [
+       {
+           "title" : "Noticia 1",
+           "fecha": "01/02/2022",
+           "description" : "El pasado viernes estuvimos festejando el día del estudiante con un Rally Académico-Deportivo en conjunto con Prepa UNIVAFU ¡Esperamos que se la hayan pasado increíble! #ColegioDelValleDelFuerte #SoyDelValle #FamiliaCastora",
+           "images": [
+               {
+                  "urlImage" : "../../../../assets/images/colegio-del-valle-del-fuerte/notices/notice1/1.jpg"
+               },
+               {
+                "urlImage" : "../../../../assets/images/colegio-del-valle-del-fuerte/notices/notice1/2.jpg"
+               },
+               {
+                "urlImage" : "../../../../assets/images/colegio-del-valle-del-fuerte/notices/notice1/3.jpg"
+               }
+           ]
+       },
+       {
+         "title" : "Noticia 2",
+         "fecha": "01/02/2022",
+         "description" : "El pasado viernes estuvimos festejando el día del estudiante con un Rally Académico-Deportivo en conjunto con Prepa UNIVAFU ¡Esperamos que se la hayan pasado increíble! #ColegioDelValleDelFuerte #SoyDelValle #FamiliaCastora",
+         "images": [
+             {
+                "urlImage" : "../../../../assets/images/colegio-del-valle-del-fuerte/notices/notice2/1.jpg"
+             }
+         ]
+     },
+     {
+         "title" : "Noticia 3",
+         "fecha": "01/02/2022",
+         "description" : "El pasado viernes estuvimos festejando el día del estudiante con un Rally Académico-Deportivo en conjunto con Prepa UNIVAFU ¡Esperamos que se la hayan pasado increíble! #ColegioDelValleDelFuerte #SoyDelValle #FamiliaCastora",
+         "images": [
+             {
+                "urlImage" : "../../../../assets/images/colegio-del-valle-del-fuerte/notices/notice3/1.png"
+             }
+         ]
+     },
+     {
+         "title" : "Noticia 4",
+         "fecha": "01/02/2022",
+         "description" : "El pasado viernes estuvimos festejando el día del estudiante con un Rally Académico-Deportivo en conjunto con Prepa UNIVAFU ¡Esperamos que se la hayan pasado increíble! #ColegioDelValleDelFuerte #SoyDelValle #FamiliaCastora",
+         "images": [
+             {
+                "urlImage" : "../../../../assets/images/colegio-del-valle-del-fuerte/notices/notice4/1.jpg"
+             }
+         ]
+     }
+   ]
+  }
+]

@@ -1,0 +1,1171 @@
+[
+  {
+    "name": "lgtyg",
+    "data": {
+      "banner": {
+        "title": "Licenciatura en Gestión Turística y Gastronomía",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur voluptatem, corporis dolorem similique facilis ex temporibus quaerat reprehenderit earum vitae eius? Nulla voluptas reiciendis esse voluptate modi laborum dolore! Nesciunt!",
+        "url": "/assets/images/univafu-universidad/licenciaturas/lgtyg/banner.jpg",
+        "video": false
+      },
+      "about": {
+        "urlImg1": "../../../../assets/images/univafu-universidad/licenciaturas/lgtyg/1.jpg",
+        "titulo1": "Licenciatura en Gestión Turística y Gastronomía",
+        "desc1": "Conocerás la gestión y promoción del turismo, a través de la aplicación de procesos administrativos efectivos y de calidad, para  la satisfacción del cliente; además del desarrollo de habilidades técnicas gastronómicas, regidas por estándares de calidad internacional.",
+        "titulo2": "Campo Profesional",
+        "subTitulo2": "",
+        "desc2": "Administrando empresas en la industria de alimentos y bebidas, gestor y promotor de la actividad turística y la cultura gastronómica nacional. Desarrollando alta cocina; en secretarías de gobierno diseñando proyectos turísticos sustentables o gestionando tu propia empresa.",
+        "lista2": [],
+        "urlImg2": "../../../../assets/images/univafu-universidad/licenciaturas/lgtyg/2.jpg",
+        "urlImg3": "../../../../assets/images/univafu-universidad/licenciaturas/lgtyg/3.jpg",
+        "titulo3": "Perfil de Ingreso",
+        "desc3": "",
+        "lista3": [
+          {
+            "line": "Gusto por la preparación de alimentos y bebidas."
+          },
+          {
+            "line": "Espíritu de servicio."
+          },
+          {
+            "line": "Capacidad para el análisis crítico de situaciones  diversas."
+          },
+          {
+            "line": "Aptitudes verbales, facilidad para relaciones públicas."
+          },
+          {
+            "line": "Amplia cultura general."
+          },
+          {
+            "line": "Trabajo en equipo."
+          },
+          {
+            "line": "Gusto por los idiomas."
+          }
+        ]
+      },
+      "semestres": [
+        {
+          "titulo": "1er Semestre",
+          "materias": [
+            {
+              "titulo": "Turismo y Medio Ambiente"
+            },
+            {
+              "titulo": "Gastronomía y Manejo Higiénico"
+            },
+            {
+              "titulo": "Administración"
+            },
+            {
+              "titulo": "Matemáticas Básicas"
+            },
+            {
+              "titulo": "Lenguaje y Cultura"
+            },
+            {
+              "titulo": "Taller de Expresión Oral y Escrita"
+            },
+            {
+              "titulo": "Tecnologías de Información y Comunicación (TIC'S)"
+            },
+            {
+              "titulo": "Valores Humanos"
+            }
+          ]
+        },
+        {
+          "titulo": "2do Semestre",
+          "materias": [
+            {
+              "titulo": "Planificación del Turismo"
+            },
+            {
+              "titulo": "Geografía Nacional"
+            },
+            {
+              "titulo": "Técnicas Culinarias"
+            },
+            {
+              "titulo": "Nutrición"
+            },
+            {
+              "titulo": "Contabilidad"
+            },
+            {
+              "titulo": "Análisis de la Información"
+            },
+            {
+              "titulo": "Inglés I"
+            }
+          ]
+        },
+        {
+          "titulo": "3er Semestre",
+          "materias": [
+            {
+              "titulo": "Gestión del Hospedaje"
+            },
+            {
+              "titulo": "Geografía Mundial"
+            },
+            {
+              "titulo": "Panadería y Repostería"
+            },
+            {
+              "titulo": "Enología y Licores"
+            },
+            {
+              "titulo": "Estadística"
+            },
+            {
+              "titulo": "Metodología de la Investigación"
+            },
+            {
+              "titulo": "Inglés II"
+            }
+          ]
+        },
+        {
+          "titulo": "4to Semestre",
+          "materias": [
+            {
+              "titulo": "Patrimonio Turístico"
+            },
+            {
+              "titulo": "Historia de México"
+            },
+            {
+              "titulo": "Productos Cárnicos"
+            },
+            {
+              "titulo": "Cocina Vegetariana"
+            },
+            {
+              "titulo": "Administración de Recursos Humanos"
+            },
+            {
+              "titulo": "Calidad y Servicio al Cliente"
+            },
+            {
+              "titulo": "Desarrollo sustentable"
+            },
+            {
+              "titulo": "Inglés III "
+            }
+          ]
+        },
+        {
+          "titulo": "5to Semestre",
+          "materias": [
+            {
+              "titulo": "Circuitos Turísticos Nacionales e Internacionales"
+            },
+            {
+              "titulo": "Ecoturismo"
+            },
+            {
+              "titulo": "Cocina Mexicana"
+            },
+            {
+              "titulo": "Dietología"
+            },
+            {
+              "titulo": "Derecho y Legislación Turística"
+            },
+            {
+              "titulo": "Liderazgo"
+            },
+            {
+              "titulo": "Inglés IV"
+            }
+          ]
+        },
+        {
+          "titulo": "6to Semestre",
+          "materias": [
+            {
+              "titulo": "Organización de Eventos, Ferias y Exposiciones"
+            },
+            {
+              "titulo": "Cocina Internacional"
+            },
+            {
+              "titulo": "Economía y Finanzas"
+            },
+            {
+              "titulo": "Marketing y Comercialización"
+            }
+          ]
+        },
+        {
+          "titulo": "7mo Semestre",
+          "materias": [
+            {
+              "titulo": "Development of Management Skills"
+            },
+            {
+              "titulo": "Banquetes"
+            },
+            {
+              "titulo": "Cultura Emprendedora"
+            },
+            {
+              "titulo": "Francés I"
+            }
+          ]
+        },
+        {
+          "titulo": "8vo Semestre",
+          "materias": [
+            {
+              "titulo": "Taller de Guías Turísticos"
+            },
+            {
+              "titulo": "Taller de Creatividad Culinaria"
+            },
+            {
+              "titulo": "Desarrollo de Emprendedores"
+            },
+            {
+              "titulo": "Francés II"
+            },
+            {
+              "titulo": "Seminario de Trabajo de Investigación"
+            }
+          ]
+        }
+      ],
+      "misionvision" : {
+        "mision": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis in cum aspernatur sed porro reiciendis quidem, odit aliquid. Fuga ratione voluptate distinctio, voluptas vitae ea!",
+        "vision" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis in cum aspernatur sed porro reiciendis quidem, odit aliquid. Fuga ratione voluptate distinctio, voluptas vitae ea!"
+      }
+    }
+  },
+  {
+    "name": "lnut",
+    "data": {
+      "banner": {
+        "title": "Licenciatura en Nutrición",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur voluptatem, corporis dolorem similique facilis ex temporibus quaerat reprehenderit earum vitae eius? Nulla voluptas reiciendis esse voluptate modi laborum dolore! Nesciunt!",
+        "url": "/assets/images/univafu-universidad/licenciaturas/lnut/banner.jpg",
+        "video": false
+      },
+      "about": {
+        "urlImg1": "../../../../assets/images/univafu-universidad/licenciaturas/lnut/1.jpg",
+        "titulo1": "Licenciatura en Nutrición",
+        "desc1": "Obtendrás conocimientos sobre la interacción de los alimentos con el organismo humano y su actuación en los procesos de salud y enfermedad. Comprenderás las implicaciones sociales, psicológicas y culturales inmersas en la ciencia de la nutrición. Formularás, elaborarás e innovarás, diversos productos alimenticios, todo ello en un marco de respeto y ética profesional, atendiendo las normas oficiales de carácter nacional e internacional vigentes.",
+        "titulo2": "Campo Profesional",
+        "subTitulo2": "",
+        "desc2": "Podrás integrarte a equipos de trabajo multidisciplinarios dentro del área clínica y hospitalaria, dedicados a la contribución de la calidad de vida de las personas, desarrollarás planes de intervención nutricional para centros deportivos y educativos. Aportarás valor como asesor en empresas de tipo público y privado, o creando tu consultorio propio. Socialmente podrás participar en actividades de prevención, diagnóstico y apoyo nutricional, con el objetivo de preservar la salud, además de contribuir al desarrollo de las ciencias médicas a través de la investigación.",
+        "lista2": [],
+        "urlImg2": "../../../../assets/images/univafu-universidad/licenciaturas/lnut/2.jpg",
+        "urlImg3": "../../../../assets/images/univafu-universidad/licenciaturas/lnut/3.jpg",
+        "titulo3": "Perfil de Ingreso",
+        "desc3": "",
+        "lista3": [
+          {
+            "line": "Gusto por el área clínica."
+          },
+          {
+            "line": "Interés por conocer el proceso de alimentación."
+          },
+          {
+            "line": "Interés por mejorar la salud y elevar la calidad de vida de las personas."
+          },
+          {
+            "line": "Gusto por la investigación y los idiomas."
+          }
+        ]
+      },
+      "semestres": [
+        {
+          "titulo": "1er Semestre",
+          "materias": [
+            {
+              "titulo": "Anatomía y Fisiología I"
+            },
+            {
+              "titulo": "Química Orgánica"
+            },
+            {
+              "titulo": "Nutrición Básica"
+            },
+            {
+              "titulo": "Taller de Expresión Oral y Escrita"
+            },
+            {
+              "titulo": "Tecnologías de Información y Comunicación (TIC’S)"
+            },
+            {
+              "titulo": "Valores Humanos"
+            }
+          ]
+        },
+        {
+          "titulo": "2do Semestre",
+          "materias": [
+            {
+              "titulo": "Anatomía y Fisiología II"
+            },
+            {
+              "titulo": "Bioquímica I"
+            },
+            {
+              "titulo": "Bromatología I"
+            },
+            {
+              "titulo": "Nutrición en el Ciclo de la Vida I"
+            },
+            {
+              "titulo": "Epidemiología de la Nutrición"
+            },
+            {
+              "titulo": "Análisis de la Información"
+            },
+            {
+              "titulo": "Inglés I"
+            }
+          ]
+        },
+        {
+          "titulo": "3er Semestre",
+          "materias": [
+            {
+              "titulo": "Farmacología y Toxicología Básica"
+            },
+            {
+              "titulo": "Bioquímica II"
+            },
+            {
+              "titulo": "Bromatología II"
+            },
+            {
+              "titulo": "Nutrición en el Ciclo de la Vida II"
+            },
+            {
+              "titulo": "Evaluación del Estado Nutricional"
+            },
+            {
+              "titulo": "Metodología de la Investigación"
+            },
+            {
+              "titulo": "Inglés II"
+            }
+          ]
+        },
+        {
+          "titulo": "4to Semestre",
+          "materias": [
+            {
+              "titulo": "Cálculo Dietético"
+            },
+            {
+              "titulo": "Tecnología de Alimentos"
+            },
+            {
+              "titulo": "Selección y Preparación de Alimentos I"
+            },
+            {
+              "titulo": "Patología de la Nutrición I"
+            },
+            {
+              "titulo": "Taller de Antropometría"
+            },
+            {
+              "titulo": "Psicología de la Nutrición"
+            },
+            {
+              "titulo": "Desarrollo Sustentable"
+            }
+          ]
+        },
+        {
+          "titulo": "5to Semestre",
+          "materias": [
+            {
+              "titulo": "Dietoterapia I"
+            },
+            {
+              "titulo": "Selección y Preparación de  Alimentos II"
+            },
+            {
+              "titulo": "Patología de la Nutrición II"
+            },
+            {
+              "titulo": "Didáctica General"
+            },
+            {
+              "titulo": "Nutrición en Pediatría"
+            },
+            {
+              "titulo": "Liderazgo"
+            }
+          ]
+        },
+        {
+          "titulo": "6to Semestre",
+          "materias": [
+            {
+              "titulo": "Dietoterapia II"
+            },
+            {
+              "titulo": "Nutrición en el Deporte"
+            },
+            {
+              "titulo": "Educación en Nutrición"
+            },
+            {
+              "titulo": "Nutrición y Práctica Comunitaria"
+            },
+            {
+              "titulo": "Nutrición en Geriatría"
+            },
+            {
+              "titulo": "Bioestadística"
+            }
+          ]
+        },
+        {
+          "titulo": "7mo Semestre",
+          "materias": [
+            {
+              "titulo": "Apoyo Metabólico"
+            },
+            {
+              "titulo": "Administración y Alimentación Institucional"
+            },
+            {
+              "titulo": "Programas de Nutrición y Legislación Alimentaria"
+            },
+            {
+              "titulo": "Cultura y Calidad en el Servicio"
+            },
+            {
+              "titulo": "Cultura Emprendedora"
+            }
+          ]
+        },
+        {
+          "titulo": "8vo Semestre",
+          "materias": [
+            {
+              "titulo": "Genética de la Nutrición"
+            },
+            {
+              "titulo": "Práctica Hospitalaria"
+            },
+            {
+              "titulo": "Práctica de Servicios de Alimentación"
+            },
+            {
+              "titulo": "Seminario de Trabajo de Investigación"
+            },
+            {
+              "titulo": "Desarrollo de Emprendedores"
+            }
+          ]
+        },
+        {
+          "titulo": "Servicio social",
+          "materias": [
+            {
+              "titulo": "El servicio social es obligatorio para los alumnos y egresados de educación superior incorporadas a SEPyC, y es requisito previo para la obtención del título correspondiente."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "ltal",
+    "data": {
+      "banner": {
+        "title": "Licenciatura en Terapia de Audición y Lenguaje",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur voluptatem, corporis dolorem similique facilis ex temporibus quaerat reprehenderit earum vitae eius? Nulla voluptas reiciendis esse voluptate modi laborum dolore! Nesciunt!",
+        "url": "/assets/images/univafu-universidad/licenciaturas/ltal/banner.jpg",
+        "video": false
+      },
+      "about": {
+        "urlImg1": "../../../../assets/images/univafu-universidad/licenciaturas/ltal/1.jpg",
+        "titulo1": "Licenciatura en Terapia de Audición y Lenguaje",
+        "desc1": "Conocerás y diagnosticarás los trastornos de Audición y Lenguaje; atenderás a pacientes de todas las edades que presenten dificultades, tanto en  el desarrollo  del lenguaje y/o la comunicación, como en proporcionar terapia, tratamiento o reeducación en los posibles trastornos que aparecen en el área de la comunicación humana.",
+        "titulo2": "Campo Profesional",
+        "subTitulo2": "",
+        "desc2": "Como especialista en rehabilitación de los trastornos de la audición, lenguaje y comunicación, en centros hospitalarios y de rehabilitación, en el ámbito educativo y empresarial; así como en el ejercicio de la práctica privada.",
+        "lista2": [],
+        "urlImg2": "../../../../assets/images/univafu-universidad/licenciaturas/ltal/2.jpg",
+        "urlImg3": "../../../../assets/images/univafu-universidad/licenciaturas/ltal/3.jpg",
+        "titulo3": "Perfil de Ingreso",
+        "desc3": "",
+        "lista3": [
+          {
+            "line": "Gusto por el área de la Salud y Clínica."
+          },
+          {
+            "line": "Facilidad y disposición para el trato con grupos especiales."
+          },
+          {
+            "line": "Compromiso y respeto por la diversidad."
+          }
+        ]
+      },
+      "semestres": [
+        {
+          "titulo": "1er Semestre",
+          "materias": [
+            {
+              "titulo": "Psicología General"
+            },
+            {
+              "titulo": "Antecedentes  de la Logofoniatría"
+            },
+            {
+              "titulo": "Bases Biológicas de la Comunicación  "
+            },
+            {
+              "titulo": "Genética  Básica"
+            },
+            {
+              "titulo": "Taller de Expresión Oral y Escrita"
+            },
+            {
+              "titulo": "Tecnologías de Información y Comunicación (TIC´S)"
+            },
+            {
+              "titulo": "Valores Humanos"
+            }
+          ]
+        },
+        {
+          "titulo": "2do Semestre",
+          "materias": [
+            {
+              "titulo": "Psicología de la Comunicación Humana"
+            },
+            {
+              "titulo": "Psicopedagogía y Rehabilitación  "
+            },
+            {
+              "titulo": "Aparato Fonoarticulador"
+            },
+            {
+              "titulo": "Sistema Nervioso"
+            },
+            {
+              "titulo": "Neurodesarrollo"
+            },
+            {
+              "titulo": "Análisis de la Información"
+            },
+            {
+              "titulo": "Inglés I"
+            }
+          ]
+        },
+        {
+          "titulo": "3er Semestre",
+          "materias": [
+            {
+              "titulo": "Didáctica y Organización Escolar "
+            },
+            {
+              "titulo": "Estimulación Temprana"
+            },
+            {
+              "titulo": "Fonética y Fonología"
+            },
+            {
+              "titulo": "Trastornos Específicos del Desarrollo"
+            },
+            {
+              "titulo": "Sistema Auditivo"
+            },
+            {
+              "titulo": "Metodología de la Investigación"
+            },
+            {
+              "titulo": "Inglés II"
+            }
+          ]
+        },
+        {
+          "titulo": "4to Semestre",
+          "materias": [
+            {
+              "titulo": "Psicología del Aprendizaje"
+            },
+            {
+              "titulo": "Logopedia y Foniatría"
+            },
+            {
+              "titulo": "Bioética y Deontología"
+            },
+            {
+              "titulo": "Audiología"
+            },
+            {
+              "titulo": "Desarrollo Sustentable"
+            },
+            {
+              "titulo": "Bioestadística"
+            }
+          ]
+        },
+        {
+          "titulo": "5to Semestre",
+          "materias": [
+            {
+              "titulo": "Trastornos de Aprendizaje "
+            },
+            {
+              "titulo": "Comunicación Aumentativa"
+            },
+            {
+              "titulo": "Clínica Logofoniátrica I"
+            },
+            {
+              "titulo": "Electrofisiología  "
+            },
+            {
+              "titulo": "Clínica Audiológica Básica"
+            },
+            {
+              "titulo": "Liderazgo"
+            }
+          ]
+        },
+        {
+          "titulo": "6to Semestre",
+          "materias": [
+            {
+              "titulo": "Diagnóstico Psicopedagógico "
+            },
+            {
+              "titulo": "Clínica Logofoniátrica II"
+            },
+            {
+              "titulo": "Fisioterapia Orofacial y de Deglución  "
+            },
+            {
+              "titulo": "Clínica Audiológica Avanzada"
+            },
+            {
+              "titulo": "Administración de Centros de Salud"
+            },
+            {
+              "titulo": "Tecnologías en Audición y Lenguaje"
+            }
+          ]
+        },
+        {
+          "titulo": "7mo Semestre",
+          "materias": [
+            {
+              "titulo": "Psicoterapia   "
+            },
+            {
+              "titulo": "Práctica Psicopedagógica"
+            },
+            {
+              "titulo": "Competencia Clínica de Lenguaje"
+            },
+            {
+              "titulo": "Práctica de  Audición I"
+            },
+            {
+              "titulo": "Cultura Emprendedora"
+            }
+          ]
+        },
+        {
+          "titulo": "8vo Semestre",
+          "materias": [
+            {
+              "titulo": "Práctica Psicoterapéutica"
+            },
+            {
+              "titulo": "Práctica  Logofoniátrica"
+            },
+            {
+              "titulo": "Práctica de  Audición II"
+            },
+            {
+              "titulo": "Seminario de Trabajo de Investigación"
+            },
+            {
+              "titulo": "Desarrollo de Emprendedores"
+            }
+          ]
+        },
+        {
+          "titulo": "Servicio social",
+          "materias": [
+            {
+              "titulo": "El servicio social es obligatorio para los alumnos y egresados de educación superior incorporadas a SEPyC, y es requisito previo para la obtención del título correspondiente."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "ltfyr",
+    "data": {
+      "banner": {
+        "title": "Licenciatura en Terapia Física y Rehabilitación",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur voluptatem, corporis dolorem similique facilis ex temporibus quaerat reprehenderit earum vitae eius? Nulla voluptas reiciendis esse voluptate modi laborum dolore! Nesciunt!",
+        "url": "/assets/images/univafu-universidad/licenciaturas/ltfyr/banner.jpg",
+        "video": false
+      },
+      "about": {
+        "urlImg1": "../../../../assets/images/univafu-universidad/licenciaturas/ltfyr/1.jpg",
+        "titulo1": "Licenciatura en Terapia Física y Rehabilitación",
+        "desc1": "Dominarás los conocimientos científicos del área de la salud, medicina de rehabilitación y terapia física; cuyo propósito principal es prevenir, desarrollar, mantener y restaurar el máximo movimiento y capacidad funcional del ser humano; a través de medios físico-terapéuticos, ejercicios y técnicas específicas de rehabilitación.",
+        "titulo2": "Campo Profesional",
+        "subTitulo2": "",
+        "desc2": "Integrándote a equipos de trabajo multidisciplinarios en hospitales y clínicas públicas y/o privadas. Como profesional independiente de la práctica clínica privada. En centros educativos y de investigación, clubes deportivos y centro de atención especializados.",
+        "lista2": [],
+        "urlImg2": "../../../../assets/images/univafu-universidad/licenciaturas/ltfyr/2.jpg",
+        "urlImg3": "../../../../assets/images/univafu-universidad/licenciaturas/ltfyr/3.jpg",
+        "titulo3": "Perfil de Ingreso",
+        "desc3": "",
+        "lista3": [
+          {
+            "line": "Gusto por el área de la salud y clínica."
+          },
+          {
+            "line": "Facilidad y disposición para el trato con grupos especiales."
+          },
+          {
+            "line": "Compromiso y respeto por la diversidad."
+          }
+        ]
+      },
+      "semestres": [
+        {
+          "titulo": "1er Semestre",
+          "materias": [
+            {
+              "titulo": "Anatomía Humana I"
+            },
+            {
+              "titulo": "Fisiología"
+            },
+            {
+              "titulo": "Histoembriología"
+            },
+            {
+              "titulo": "Fundamentos de Fisioterapia y Rehabilitación"
+            },
+            {
+              "titulo": "Principios Físicos de la Fisioterapia"
+            },
+            {
+              "titulo": "Taller de Expresión Oral y Escrita"
+            },
+            {
+              "titulo": "Tecnologías de Información y Comunicación (TIC'S)"
+            },
+            {
+              "titulo": "Valores Humanos"
+            }
+          ]
+        },
+        {
+          "titulo": "2do Semestre",
+          "materias": [
+            {
+              "titulo": "Anatomía Humana II"
+            },
+            {
+              "titulo": "Bioquímica"
+            },
+            {
+              "titulo": "Evaluación Funcional I"
+            },
+            {
+              "titulo": "Agentes Físicos I"
+            },
+            {
+              "titulo": "Análisis de la Información"
+            },
+            {
+              "titulo": "Inglés I"
+            },
+            {
+              "titulo": "Bioestadística"
+            }
+          ]
+        },
+        {
+          "titulo": "3er Semestre",
+          "materias": [
+            {
+              "titulo": "Psicología en la Rehabilitación"
+            },
+            {
+              "titulo": "Evaluación Funcional II"
+            },
+            {
+              "titulo": "Agentes Físicos II"
+            },
+            {
+              "titulo": "Kinesiología"
+            },
+            {
+              "titulo": "Metodología de la Investigación"
+            },
+            {
+              "titulo": "Inglés II"
+            },
+            {
+              "titulo": "Ergonomía"
+            }
+          ]
+        },
+        {
+          "titulo": "4to Semestre",
+          "materias": [
+            {
+              "titulo": "Imagenología"
+            },
+            {
+              "titulo": "Neurodesarrollo"
+            },
+            {
+              "titulo": "Rehabilitación Infantil"
+            },
+            {
+              "titulo": "Propedéutica Clínica"
+            },
+            {
+              "titulo": "Kinesioterapia"
+            },
+            {
+              "titulo": "Desarrollo Sustentable"
+            }
+          ]
+        },
+        {
+          "titulo": "5to Semestre",
+          "materias": [
+            {
+              "titulo": "Farmacología"
+            },
+            {
+              "titulo": "Neurología del Adulto"
+            },
+            {
+              "titulo": "Rehabilitación Geriátrica y Gerontología"
+            },
+            {
+              "titulo": "Prácticas Clínicas I"
+            },
+            {
+              "titulo": "Masoterapia"
+            },
+            {
+              "titulo": "Liderazgo"
+            }
+          ]
+        },
+        {
+          "titulo": "6to Semestre",
+          "materias": [
+            {
+              "titulo": "Nutrición en la Rehabilitación"
+            },
+            {
+              "titulo": "Terapias Alternativas en Reumatología"
+            },
+            {
+              "titulo": "Rehabilitación Especial"
+            },
+            {
+              "titulo": "Prácticas Clínicas II"
+            },
+            {
+              "titulo": "Ortopedia y Traumatología"
+            },
+            {
+              "titulo": "Medicina Preventiva y Salud Pública"
+            }
+          ]
+        },
+        {
+          "titulo": "7mo Semestre",
+          "materias": [
+            {
+              "titulo": "Rehabilitación en la Actividad Física"
+            },
+            {
+              "titulo": "Rehabilitación Cardiorespiratoria"
+            },
+            {
+              "titulo": "Prótesis y Órtesis"
+            },
+            {
+              "titulo": "Cultura Emprendedora"
+            },
+            {
+              "titulo": "Gestión de la Calidad"
+            }
+          ]
+        },
+        {
+          "titulo": "8vo Semestre",
+          "materias": [
+            {
+              "titulo": "Terapia Ocupacional"
+            },
+            {
+              "titulo": "Seminario de Trabajo de Investigación"
+            },
+            {
+              "titulo": "Desarrollo de Emprendedores"
+            },
+            {
+              "titulo": "Bioética"
+            }
+          ]
+        },
+        {
+          "titulo": "Servicio social",
+          "materias": [
+            {
+              "titulo": "El servicio social es obligatorio para los alumnos y egresados de educación superior incorporadas a SEPyC, y es requisito previo para la obtención del título correspondiente."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "lmkt",
+    "data": {
+      "banner": {
+        "title": "Licenciatura en Marketing Digital",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur voluptatem, corporis dolorem similique facilis ex temporibus quaerat reprehenderit earum vitae eius? Nulla voluptas reiciendis esse voluptate modi laborum dolore! Nesciunt!",
+        "url": "/assets/images/univafu-universidad/licenciaturas/lmkt/banner.jpg",
+        "video": false
+      },
+      "about": {
+        "urlImg1": "../../../../assets/images/univafu-universidad/licenciaturas/lmkt/1.jpg",
+        "titulo1": "Licenciatura en Marketing Digital",
+        "desc1": "Si tienes interés en la publicidad, te apasionan las redes sociales e internet, quieres orientar tus habilidades y destrezas al diseño de estrategias de comercialización en medios digitales que mejoren el alcance de una empresa, ¡Esta carrera es para ti!.",
+        "titulo2": "Campo Profesional",
+        "subTitulo2": "",
+        "desc2": "Gestionando tu propia empresa, ofreciendo servicios de asesorías como FreeLance, impulsando productos y marcas. En empresas que requieran desarrollar sus campañas publicitarias en medios digitales o potencializar su alcance en el ciberespacio.",
+        "lista2": [],
+        "urlImg2": "../../../../assets/images/univafu-universidad/licenciaturas/lmkt/2.jpg",
+        "urlImg3": "../../../../assets/images/univafu-universidad/licenciaturas/lmkt/3.jpg",
+        "titulo3": "Perfil de Ingreso",
+        "desc3": "",
+        "lista3": [
+          {
+            "line": "Interés por los fundamentos de marketing"
+          },
+          {
+            "line": "Gusto por las herramientas para el diseño digital"
+          },
+          {
+            "line": "Habilidades para el traslado de la comercialización a medios digitales, administración y legalidad en marketing"
+          },
+          {
+            "line": "Facilidad para la gestión de redes sociales y  comercio electrónico"
+          }
+        ]
+      },
+      "semestres": [
+        {
+          "titulo": "1er Semestre",
+          "materias": [
+            {
+              "titulo": "Comunicación Visual"
+            },
+            {
+              "titulo": "Taller de Creatividad"
+            },
+            {
+              "titulo": "Fundamentos de Marketing"
+            },
+            {
+              "titulo": "Administración"
+            },
+            {
+              "titulo": "Matemáticas Orientadas a los Negocios"
+            },
+            {
+              "titulo": "Taller de Expresión Oral y Escrita"
+            },
+            {
+              "titulo": "Valores Humanos"
+            },
+            {
+              "titulo": "Inglés I"
+            }
+          ]
+        },
+        {
+          "titulo": "2do Semestre",
+          "materias": [
+            {
+              "titulo": "Tratamiento de Imágenes"
+            },
+            {
+              "titulo": "Psicología del Color"
+            },
+            {
+              "titulo": "Marketing de Servicios"
+            },
+            {
+              "titulo": "Comportamiento del Consumidor"
+            },
+            {
+              "titulo": "Análisis de la Información"
+            },
+            {
+              "titulo": "Estadística Aplicada"
+            },
+            {
+              "titulo": "Inglés II"
+            }
+          ]
+        },
+        {
+          "titulo": "3er Semestre",
+          "materias": [
+            {
+              "titulo": "Diseño Digital Publicitario"
+            },
+            {
+              "titulo": "Introducción al Diseño Web"
+            },
+            {
+              "titulo": "Marketing Mix"
+            },
+            {
+              "titulo": "Publicidad y Comunicación"
+            },
+            {
+              "titulo": "Contabilidad"
+            },
+            {
+              "titulo": "Metodología de la Investigación"
+            },
+            {
+              "titulo": "Inglés III"
+            }
+          ]
+        },
+        {
+          "titulo": "4to Semestre",
+          "materias": [
+            {
+              "titulo": "Audio y Video Digital"
+            },
+            {
+              "titulo": "Administración Web"
+            },
+            {
+              "titulo": "Marketing Estratégico"
+            },
+            {
+              "titulo": "Investigación de Mercados"
+            },
+            {
+              "titulo": "Derecho Corporativo"
+            },
+            {
+              "titulo": "Desarrollo Sustentable"
+            },
+            {
+              "titulo": "Inglés IV"
+            }
+          ]
+        },
+        {
+          "titulo": "5to Semestre",
+          "materias": [
+            {
+              "titulo": "Social Media"
+            },
+            {
+              "titulo": "Aplicaciones Web"
+            },
+            {
+              "titulo": "Neuromarketing"
+            },
+            {
+              "titulo": "Imagen Corporativa"
+            },
+            {
+              "titulo": "Régimen Legal del Marketing"
+            },
+            {
+              "titulo": "Liderazgo"
+            },
+            {
+              "titulo": "Ética"
+            }
+          ]
+        },
+        {
+          "titulo": "6to Semestre",
+          "materias": [
+            {
+              "titulo": "Redacción en Medios Digitales"
+            },
+            {
+              "titulo": "Marketing Móvil"
+            },
+            {
+              "titulo": "Marketing Digital"
+            },
+            {
+              "titulo": "Campañas Publicitarias I"
+            },
+            {
+              "titulo": "Gestión de Ventas"
+            },
+            {
+              "titulo": "Desarrollo de Emprendedores"
+            }
+          ]
+        },
+        {
+          "titulo": "7mo Semestre",
+          "materias": [
+            {
+              "titulo": "Cloud Design"
+            },
+            {
+              "titulo": "E-Commerce"
+            },
+            {
+              "titulo": "Marketing Trends & Topics"
+            },
+            {
+              "titulo": "Campañas Publicitarias II"
+            },
+            {
+              "titulo": "Development of Management Skills"
+            },
+            {
+              "titulo": "Seminario de Trabajo de Investigación"
+            }
+          ]
+        },
+        {
+          "titulo": "8vo Semestre",
+          "materias": [
+            {
+              "titulo": "Estadía Empresarial"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

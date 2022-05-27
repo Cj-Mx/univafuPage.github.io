@@ -1,0 +1,144 @@
+[
+    {
+     "name": "mnut",
+        "notices": [
+         {
+             "title" : "Noticia 1",
+             "fecha": "01/02/2022",
+             "description" : "Esta es la noticia 1 MNUT",
+             "images": [
+                 {
+                    "urlImage" : "../../../../assets/images/univafu-universidad/posgrados/mnut/notices/notice1/1.png"
+                 },
+                 {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/posgrados/mnut/notices/notice1/2.png"
+                 },
+                 {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/posgrados/mnut/notices/notice1/3.png"
+                 }
+             ]
+         },
+         {
+           "title" : "Noticia 2",
+           "fecha": "01/02/2022",
+           "description" : "Esta es la noticia 1",
+           "images": [
+               {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/posgrados/mnut/notices/notice2/1.png"
+               }
+           ]
+       },
+       {
+           "title" : "Noticia 3",
+           "fecha": "01/02/2022",
+           "description" : "Esta es la noticia 1",
+           "images": [
+               {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/posgrados/mnut/notices/notice3/1.png"
+               }
+           ]
+       },
+       {
+           "title" : "Noticia 4",
+           "fecha": "01/02/2022",
+           "description" : "Esta es la noticia 1",
+           "images": [
+               {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/posgrados/mnut/notices/notice4/1.png"
+               }
+           ]
+       }
+     ]
+    } ,
+    {
+     "name": "mdch",
+        "notices": [
+         {
+             "title" : "Noticia 1",
+             "fecha": "01/02/2022",
+             "description" : "Esta es la noticia 1",
+             "images": [
+                 {
+                    "urlImage" : "../../../../assets/images/univafu-universidad/posgrados/mdch/notices/notice1/1.png"
+                 }
+             ]
+         },
+         {
+           "title" : "Noticia 2",
+           "fecha": "01/02/2022",
+           "description" : "Esta es la noticia 1",
+           "images": [
+               {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/posgrados/mdch/notices/notice2/1.png"
+               }
+           ]
+       },
+       {
+           "title" : "Noticia 3",
+           "fecha": "01/02/2022",
+           "description" : "Esta es la noticia 1",
+           "images": [
+               {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/posgrados/mdch/notices/notice3/1.png"
+               }
+           ]
+       },
+       {
+           "title" : "Noticia 4",
+           "fecha": "01/02/2022",
+           "description" : "Esta es la noticia 1",
+           "images": [
+               {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/posgrados/mdch/notices/notice4/1.png"
+               }
+           ]
+       }
+     ]
+    } ,
+    {
+     "name": "epyr",
+        "notices": [
+         {
+             "title" : "Noticia 1",
+             "fecha": "01/02/2022",
+             "description" : "Esta es la noticia 1",
+             "images": [
+                 {
+                    "urlImage" : "../../../../assets/images/univafu-universidad/posgrados/epyr/notices/notice1/1.png"
+                 }
+             ]
+         },
+         {
+           "title" : "Noticia 2",
+           "fecha": "01/02/2022",
+           "description" : "Esta es la noticia 1",
+           "images": [
+               {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/posgrados/epyr/notices/notice2/1.png"
+               }
+           ]
+       },
+       {
+           "title" : "Noticia 3",
+           "fecha": "01/02/2022",
+           "description" : "Esta es la noticia 1",
+           "images": [
+               {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/posgrados/epyr/notices/notice3/1.png"
+               }
+           ]
+       },
+       {
+           "title" : "Noticia 4",
+           "fecha": "01/02/2022",
+           "description" : "Esta es la noticia 1",
+           "images": [
+               {
+                  "urlImage" : "../../../../assets/images/univafu-universidad/posgrados/epyr/notices/notice4/1.png"
+               }
+           ]
+       }
+     ]
+    }
+
+ ]
